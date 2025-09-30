@@ -8,6 +8,7 @@ This dashboard was built to analyze ride-booking performance and deliver actiona
  ✅ Fully interactive dashboard with slicers for Date & Vehicle Type
  ✅ Balanced layout with KPI cards, charts, and trend analysis for quick decision-making
  ✅ Strong emphasis on presentation & visualization skills to make insights engaging
+ 
 
 📊 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭s
  🔹 KPIs: bookings, completed rides, cancellations & incomplete rides
